@@ -1,4 +1,4 @@
-<img width="846" height="547" alt="Train Vs Validation" src="https://github.com/user-attachments/assets/fdd960e0-d98f-4165-b82b-bf35d9d961c2" /><img width="846" height="547" alt="Train Vs Validation" src="https://github.com/user-attachments/assets/e4c10747-9eda-4fbc-8a1a-65a44024bf58" /># Transfer Learning vs Training From Scratch on CIFAR-10
+
 
 This project presents a **comparative experimental study of image classification** using:
 A CNN trained from scratch
