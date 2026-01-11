@@ -1,4 +1,4 @@
-# Transfer Learning vs Training From Scratch on CIFAR-10
+<img width="846" height="547" alt="Train Vs Validation" src="https://github.com/user-attachments/assets/fdd960e0-d98f-4165-b82b-bf35d9d961c2" /><img width="846" height="547" alt="Train Vs Validation" src="https://github.com/user-attachments/assets/e4c10747-9eda-4fbc-8a1a-65a44024bf58" /># Transfer Learning vs Training From Scratch on CIFAR-10
 
 This project presents a **comparative experimental study of image classification** using:
 A CNN trained from scratch
@@ -86,10 +86,12 @@ The notebook includes:
 - Training vs validation accuracy curves
 - Comparison between performance on test data by baseline and transfer learning models
 - Confusion Matrix
-- <img width="691" height="547" alt="Train" src="https://github.com/user-attachments/assets/784f6acb-1b4e-4193-9b1f-a86d6e9d629a" />
-<img width="536" height="374" alt="test" src="https://github.com/user-attachments/assets/aa0d826a-8e29-4029-8dc6-5d05730042fb" />
-<img width="507" height="455" alt="Confusion1" src="https://github.com/user-attachments/assets/4512a417-5697-47b2-8d02-1ae6b20c94f5" />
-<img width="507" height="455" alt="Confusion 2" src="https://github.com/user-attachments/assets/e09b4ac4-7181-45b7-8a1c-c9cbeb23d08d" />
+-<img width="846" height="547" alt="Train Vs Validation" src="https://github.com/user-attachments/assets/d468d650-fef6-4ed1-baae-7903b6cbefa0" />
+<img width="536" height="374" alt="test" src="https://github.com/user-attachments/assets/49d2110e-39c1-4ac8-8389-3eea44516d00" />
+<img width="507" height="455" alt="baseline_CM" src="https://github.com/user-attachments/assets/1301e3b2-3822-42df-aaee-fe4be0976b6a" />
+<img width="507" height="455" alt="TL_model_CM" src="https://github.com/user-attachments/assets/2409c07a-4809-4321-b828-d5dbfd2542fe" />
+
+
 
 
 
